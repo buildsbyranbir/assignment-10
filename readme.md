@@ -1,6 +1,6 @@
 # 🏠 HomeNest – Real Estate Listing Portal
 
-🔗 **Live Website:
+🔗 **Live Website:https://genuine-jalebi-b9e8df.netlify.app/#/my-properties
 🔗 **Client Repository:
 🔗 **Server Repository: 
 
