@@ -2,7 +2,7 @@
 
 🔗 **Live Website:https://genuine-jalebi-b9e8df.netlify.app/#/my-properties
 🔗 **Client Repository:
-🔗 **Server Repository: 
+🔗 **Server Repository: https://github.com/buildsbyranbir/homenest-server
 
 ## 📌 Project Overview
 
